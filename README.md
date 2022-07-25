@@ -15,6 +15,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://twitter.com/AkashD9439?t=d3IoqPfhaYYf4Kix6xTWIg&s=08)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash9439&show_icons=true&theme=radical)](https://github.com/Akash9439/github-readme-stats)
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash9439&show_icons=true&theme=radical)](https://github.com/Akash9439/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash9439)](https://github.com/Akash9439/github-readme-stats)
